@@ -1,23 +1,26 @@
-pandas==2.2.2
-matplotlib==3.8.0
-wordcloud==1.9.3
-seaborn==0.12.2
-scikit-learn==1.6.0
-statsmodels==0.14.0
-tqdm==4.66.1
-torch==2.2.0
-lightning==2.2.0.post0
-tensorboard==2.16.2
-bokeh==3.7.0
-transformers[torch]==4.41.2
-datasets==2.19.1
-torchinfo==1.8.0
-accelerate==0.30.1
-evaluate==0.4.2
-sentence-transformers==3.0.1
-gradio==4.36.1
-ollama==0.2.1
-spacy==3.8.7
-nltk==3.9.1
-numpy==1.26.4
-deep-translator==1.11.4
+# Core NLP packages
+pandas
+matplotlib
+seaborn
+wordcloud
+spacy
+nltk
+deep-translator
+
+# ML packages (optional, for other sessions)
+scikit-learn
+statsmodels
+tqdm
+torch
+transformers
+datasets
+sentence-transformers
+accelerate
+evaluate
+
+# Visualization
+bokeh
+gradio
+
+# Other
+ollama

@@ -1,9 +1,11 @@
-Universidad Icesi - Curso de Natural Language Processing (NLP)
+# Universidad Icesi - Curso de Natural Language Processing (NLP)
 
 Repositorio de ejercicios prácticos para el curso de Natural Language Processing (NLP) en la Universidad Icesi, Cali, Colombia.
 
-📂 Estructura del repositorio
 
+### Estructura del repositorio
+
+```bash
 ├── README.md
 ├── requirements.txt
 ├── Sesion1
@@ -14,7 +16,9 @@ Repositorio de ejercicios prácticos para el curso de Natural Language Processin
 ├── Sesion2
 │   └── 1-Word-Embeddings.ipynb
 
-Objetivo del repositorio
+```
+
+### Objetivo del repositorio
 
 Este repositorio contiene ejercicios prácticos diseñados para reforzar y complementar los conocimientos vistos en clase.
 
@@ -22,31 +26,24 @@ Su propósito es servir como referencia funcional de las sesiones del curso. Cad
 
 Los estudiantes pueden utilizar estos recursos como base para la elaboración de sus propios entregables y proyectos.
 
-Ejecución
+### Ejecución
 
 Los notebooks pueden ser ejecutados en Google Colab de forma individual y auto-suficiente.
 
 Se recomienda instalar previamente las dependencias indicadas en el archivo requirements.txt en caso de ejecutar los notebooks en un entorno local.
 
-Sesiones
-Sesión 1 - NLP Clásico
+## Sesiones
+### Sesión 1 - NLP Clásico
 
-NLP Básico con spaCy
+- NLP Básico con spaCy
+- Tokenización
+- Stemming
+- Lemmatization
+- Vocabularios
+- Práctica
+- Análisis de Sentimientos
 
-Tokenización
+### Sesión 2 - Word Embeddings
 
-Stemming
-
-Lemmatization
-
-Vocabularios
-
-Práctica
-
-Análisis de Sentimientos
-
-Sesión 2 - Word Embeddings
-
-Introducción a representaciones vectoriales de palabras
-
-Fundamentos de Word Embeddings
+- Introducción a representaciones vectoriales de palabras
+- Fundamentos de Word Embeddings

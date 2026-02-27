@@ -6,6 +6,7 @@ wordcloud
 spacy
 nltk
 deep-translator
+gensim
 
 # ML packages (optional, for other sessions)
 scikit-learn

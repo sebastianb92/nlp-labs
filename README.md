@@ -15,6 +15,8 @@ Repositorio de ejercicios prácticos para el curso de Natural Language Processin
 │   ├── political_analysis.txt
 ├── Sesion2
 │   └── 1-Word-Embeddings-LSTM.ipynb
+├── Sesion3
+│   └── 1-Transformers.ipynb
 
 ```
 

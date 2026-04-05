@@ -17,6 +17,12 @@ Repositorio de ejercicios prácticos para el curso de Natural Language Processin
 │   └── 1-Word-Embeddings-LSTM.ipynb
 ├── Sesion3
 │   └── 1-Transformers.ipynb
+├── Sesion4
+│   └── 1-Text-classification-BERT.ipynb
+├── Sesion5
+│   └── 1-Text-generation-GPT.ipynb
+└── Sesion6
+    └── 1-Chatbot-langchain.ipynb
 
 ```
 
